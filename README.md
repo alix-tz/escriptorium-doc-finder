@@ -1,6 +1,6 @@
 # Listing of Documentation Available on eScriptorium
 
-## Complete Tutorials
+## (more or less) Complete Tutorials
 
 - 🇬🇧/🇺🇸 "eScriptorium video gallery": https://escripta.hypotheses.org/escriptorium-video-gallery
 - 🇬🇧/🇺🇸 eScriptorium's wiki: https://gitlab.inria.fr/scripta/escriptorium/-/wikis/home
