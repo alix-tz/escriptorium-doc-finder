@@ -5,7 +5,7 @@
 - 🇬🇧/🇺🇸  "eScriptorium video gallery": https://escripta.hypotheses.org/escriptorium-video-gallery
 - 🇫🇷 "Prendre en main eScriptorium": https://lectaurep.hypotheses.org/documentation/prendre-en-main-escriptorium
 - 🇬🇧/🇺🇸 "eScriptorium Tutorial (en)": https://lectaurep.hypotheses.org/documentation/escriptorium-tutorial-en
--  🇬🇧/🇺🇸 Series of video tutorials: 
+- 🇬🇧/🇺🇸 Series of video tutorials: 
   - Playlist: https://youtube.com/playlist?list=PLyfwblwZENAbZs-Mq6IDLqwcxLltR2Mwc
   - Part I: https://www.youtube.com/watch?v=N0hSNC3YvD4
   - Part II: https://www.youtube.com/watch?v=LDMi5lTEW6Y
