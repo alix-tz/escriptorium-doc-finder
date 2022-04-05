@@ -2,7 +2,8 @@
 
 ## Complete Tutorials
 
-- 🇬🇧/🇺🇸  "eScriptorium video gallery": https://escripta.hypotheses.org/escriptorium-video-gallery
+- 🇬🇧/🇺🇸 "eScriptorium video gallery": https://escripta.hypotheses.org/escriptorium-video-gallery
+- 🇬🇧/🇺🇸 eScriptorium's wiki: https://gitlab.inria.fr/scripta/escriptorium/-/wikis/home
 - 🇫🇷 "Prendre en main eScriptorium": https://lectaurep.hypotheses.org/documentation/prendre-en-main-escriptorium
 - 🇬🇧/🇺🇸 "eScriptorium Tutorial (en)": https://lectaurep.hypotheses.org/documentation/escriptorium-tutorial-en
 - 🇬🇧/🇺🇸 Series of video tutorials: 
