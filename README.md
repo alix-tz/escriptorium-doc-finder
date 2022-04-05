@@ -1,5 +1,7 @@
 # Listing of Documentation Available on eScriptorium
 
+The flags are used to signal the language used in the publications, not the nationality of the projects from which they originate.
+
 ## (more or less) Complete Tutorials
 
 - 🇬🇧/🇺🇸 "eScriptorium video gallery": https://escripta.hypotheses.org/escriptorium-video-gallery
