@@ -24,3 +24,4 @@
 
 ## Other resources
 - 🇩🇪 "OCR-BW": https://ocr-bw.bib.uni-mannheim.de/
+- 🇬🇧/🇺🇸 "FoNDUE": https://github.com/FoNDUE-HTR/Documentation/
