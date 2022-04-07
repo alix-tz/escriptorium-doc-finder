@@ -10,15 +10,15 @@ The flags are used to signal the language used in the publications, not the nati
 - 🇬🇧/🇺🇸 "eScriptorium Tutorial (en)": https://lectaurep.hypotheses.org/documentation/escriptorium-tutorial-en
 - 🇬🇧/🇺🇸 Series of video tutorials: 
   - Playlist: https://youtube.com/playlist?list=PLyfwblwZENAbZs-Mq6IDLqwcxLltR2Mwc
-  - Part I: https://www.youtube.com/watch?v=N0hSNC3YvD4
-  - Part II: https://www.youtube.com/watch?v=LDMi5lTEW6Y
-  - Part III: https://www.youtube.com/watch?app=desktop&v=f5KigkLO9_E
-  - Part IV: https://www.youtube.com/watch?v=ZRKwhUEB-uo
-  - Part V: https://www.youtube.com/watch?v=Lccr-pnHKX4
-- 🇫🇷 "Comment faire lire des gribouillis à mon ordinateur ?": https://www.youtube.com/watch?v=8DgY71ZsuVs
+  - Part I: https://youtu.be/N0hSNC3YvD4
+  - Part II: https://youtu.be/LDMi5lTEW6Y
+  - Part III: https://youtu.be/f5KigkLO9_E
+  - Part IV: https://youtu.be/ZRKwhUEB-uo
+  - Part V: https://youtu.be/Lccr-pnHKX4
+- 🇫🇷 "Comment faire lire des gribouillis à mon ordinateur ?": https://youtu.be/8DgY71ZsuVs
 - 🇬🇧/🇺🇸 "RESILIENCE Tool: eScriptorium": https://www.resilience-ri.eu/blog/resilience-tool-escriptorium/
 - 🇫🇷 "eScriptorium : un outil pour la transcription automatique des documents": https://ephenum.hypotheses.org/1412
-- 🇩🇪 "Transkription digitalisierter Drucke und Zeitungen in eScriptorium": https://www.youtube.com/watch?v=aQuwh3OaKqg
+- 🇩🇪 "Transkription digitalisierter Drucke und Zeitungen in eScriptorium": https://youtu.be/aQuwh3OaKqg
 
 ## Task related tutorials
 - 🇫🇷 "Tutoriel pour la numérotation des lignes": https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Notre-Dame/blob/main/Tutoriel_numerotation_lignes.md
