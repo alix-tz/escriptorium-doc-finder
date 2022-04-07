@@ -18,6 +18,7 @@ The flags are used to signal the language used in the publications, not the nati
 - 🇫🇷 "Comment faire lire des gribouillis à mon ordinateur ?": https://www.youtube.com/watch?v=8DgY71ZsuVs
 - 🇬🇧/🇺🇸 "RESILIENCE Tool: eScriptorium": https://www.resilience-ri.eu/blog/resilience-tool-escriptorium/
 - 🇫🇷 "eScriptorium : un outil pour la transcription automatique des documents": https://ephenum.hypotheses.org/1412
+- 🇩🇪 "Transkription digitalisierter Drucke und Zeitungen in eScriptorium": https://www.youtube.com/watch?v=aQuwh3OaKqg
 
 ## Task related tutorials
 - 🇫🇷 "Tutoriel pour la numérotation des lignes": https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Notre-Dame/blob/main/Tutoriel_numerotation_lignes.md
