@@ -3,7 +3,6 @@
 The flags are used to signal the language used in the publications, not the nationality of the projects from which they originate.
 
 ## (more or less) Complete Tutorials
-
 - 🇬🇧/🇺🇸 "eScriptorium video gallery": https://escripta.hypotheses.org/escriptorium-video-gallery
 - 🇬🇧/🇺🇸 eScriptorium's wiki: https://gitlab.inria.fr/scripta/escriptorium/-/wikis/home
 - 🇫🇷 "Prendre en main eScriptorium": https://lectaurep.hypotheses.org/documentation/prendre-en-main-escriptorium
@@ -19,11 +18,15 @@ The flags are used to signal the language used in the publications, not the nati
 - 🇬🇧/🇺🇸 "RESILIENCE Tool: eScriptorium": https://www.resilience-ri.eu/blog/resilience-tool-escriptorium/
 - 🇫🇷 "eScriptorium : un outil pour la transcription automatique des documents": https://ephenum.hypotheses.org/1412
 - 🇩🇪 "Transkription digitalisierter Drucke und Zeitungen in eScriptorium": https://youtu.be/aQuwh3OaKqg
+- 🇩🇪 "eScriptorium Nutzungsanleitung": https://ub-mannheim.github.io/eScriptorium_Dokumentation/Nutzungsanleitung_eScriptorium.html
 
 ## Task related tutorials
 - 🇫🇷 "Tutoriel pour la numérotation des lignes": https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Notre-Dame/blob/main/Tutoriel_numerotation_lignes.md
 - 🇫🇷 "De Transkribus à eScriptorium": https://lectaurep.hypotheses.org/documentation/de-transkribus-a-escriptorium
 - 🇫🇷 "Production d'un modèle affiné de reconnaissance d'écriture manuscrite avec eScriptorium et évaluation de ses performances": https://www.bnf.fr/fr/mediatheque/production-dun-modele-affine-de-reconnaissance-decriture-manuscrite-avec-escriptorium
+- 🇩🇪 "Modellübertragung von Transkribus nach eScriptorium": https://ub-mannheim.github.io/eScriptorium_Dokumentation/Modell%C3%BCbertragung_Transkribus_nach_eScriptorium.html
+- 🇩🇪 "Anleitung zur lokalen Installation (Windows/Linux)": https://ub-mannheim.github.io/eScriptorium_Dokumentation/Lokale_Installation_eScriptorium.html
+- 🇬🇧 "Instructions for Local Installation (MacOS)": https://github.com/UB-Mannheim/escriptorium/wiki/Installation-on-MacOS
 
 ## Other resources
 - 🇩🇪 "OCR-BW": https://ocr-bw.bib.uni-mannheim.de/
