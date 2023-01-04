@@ -19,6 +19,7 @@ The flags are used to signal the language used in the publications, not the nati
 - 🇫🇷 "eScriptorium : un outil pour la transcription automatique des documents": https://ephenum.hypotheses.org/1412
 - 🇩🇪 "Transkription digitalisierter Drucke und Zeitungen in eScriptorium": https://youtu.be/aQuwh3OaKqg
 - 🇩🇪 "eScriptorium Nutzungsanleitung": https://ub-mannheim.github.io/eScriptorium_Dokumentation/Nutzungsanleitung_eScriptorium.html
+- 🇵🇱 "eScriptorium i Kraken - wprowadzenie": https://github.com/pjaskulski/escriptorium_tutorial/blob/master/escriptorium_tutorial.md
 
 ## Task related tutorials
 - 🇫🇷 "Tutoriel pour la numérotation des lignes": https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Notre-Dame/blob/main/Tutoriel_numerotation_lignes.md
